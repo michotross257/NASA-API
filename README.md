@@ -15,8 +15,8 @@ The NeoWs API provides near earth Asteroid information. It is useful for anyone 
 
 Potentially Hazardous | Relative Velocity (MPH) | Miss Distance (Miles) | Estimated Max Diameter (Feet)
 --- | --- | --- | ---
-No | 28,229 | 18,744,136 | 849
-Yes | 37,816 | 24,667,155 | 2,122
+No | 28,276 | 18,757,964 | 848
+Yes | 37,817 | 24,667,156 | 2,122
 
 <br>
 
